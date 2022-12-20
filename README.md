@@ -1,5 +1,5 @@
 
-##Praktikum 6 ##
+
 lATIHAN 1<br>
 Mengubah syntax dibawah ini menjadi fungsi menggunakan lambda<br>
 ![Gambar 1](/def/lat1.png)<br>
